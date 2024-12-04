@@ -21,22 +21,6 @@
 
 📂 **Database Integration**  
 - Pre-configured SQL schema for a smooth setup.
-
----
-
-## 📂 Project Structure
-
-```plaintext
-LKPCSolution/
-├── adminpages/        # Admin panel pages and styles
-├── css/               # Custom stylesheets for the application
-├── image/             # Application assets and images
-├── include/           # Backend scripts for database interaction and helper functions
-├── js/                # JavaScript files for client-side functionality
-├── productItem/       # Product images
-├── vender/            # External libraries and dependencies (e.g., PHPMailer)
-└── *.php              # Main application PHP files
-
 🚀 Setup Instructions
 Clone the Repository
 
@@ -63,3 +47,19 @@ Licensed under the MIT License. For details, check out the LICENSE file.
 Enjoy exploring LKPC Solution! 🌟 For questions, feel free to reach out!
 
 Would you like to download this updated version?
+
+---
+
+## 📂 Project Structure
+
+```plaintext
+LKPCSolution/
+├── adminpages/        # Admin panel pages and styles
+├── css/               # Custom stylesheets for the application
+├── image/             # Application assets and images
+├── include/           # Backend scripts for database interaction and helper functions
+├── js/                # JavaScript files for client-side functionality
+├── productItem/       # Product images
+├── vender/            # External libraries and dependencies (e.g., PHPMailer)
+└── *.php              # Main application PHP files
+
