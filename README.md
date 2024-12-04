@@ -29,12 +29,12 @@ Copy code
 git clone https://github.com/yourusername/LKPCSolution.git
 Configure the Database
 
-Import project.sql into MySQL.
-Update include/dbh.inc.php with your database credentials.
-Start the Application
+- Import project.sql into MySQL.
+- Update include/dbh.inc.php with your database credentials.
+- Start the Application
 
-Use a local server or deploy to a live host.
-Open the app in your browser and enjoy!
+- Use a local server or deploy to a live host.
+- Open the app in your browser and enjoy!
 
 📸 **Screenshots**
 -  Add exciting screenshots or GIFs here to showcase the app.
