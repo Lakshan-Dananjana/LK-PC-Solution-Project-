@@ -36,3 +36,11 @@ attractive_readme_content = """
 
 ## 📂 Project Structure
 
+
+---
+
+## 🔧 Installation
+
+1. **Clone the Repository**:
+   ```bash
+   git clone <repository-url>
