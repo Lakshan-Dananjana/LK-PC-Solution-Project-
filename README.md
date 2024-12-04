@@ -24,7 +24,7 @@
 🚀 Setup Instructions
 Clone the Repository
 
-bash
+- bash
 Copy code
 git clone https://github.com/yourusername/LKPCSolution.git
 Configure the Database
