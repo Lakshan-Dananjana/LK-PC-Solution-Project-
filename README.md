@@ -37,17 +37,17 @@ Use a local server or deploy to a live host.
 Open the app in your browser and enjoy!
 
 📸 **Screenshots**
-Add exciting screenshots or GIFs here to showcase the app.
+-  Add exciting screenshots or GIFs here to showcase the app.
 
 🤝 **Contributing**
-We welcome contributions! Feel free to fork this repo, submit issues, or open pull requests.
+-   We welcome contributions! Feel free to fork this repo, submit issues, or open pull requests.
 
 📜 **License**
-Licensed under the MIT License. For details, check out the LICENSE file.
+-   Licensed under the MIT License. For details, check out the LICENSE file.
 
-Enjoy exploring LKPC Solution! 🌟 For questions, feel free to reach out!
+-   Enjoy exploring LKPC Solution! 🌟 For questions, feel free to reach out!
 
-Would you like to download this updated version?
+-   Would you like to download this updated version?
 
 ---
 
