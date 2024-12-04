@@ -35,13 +35,14 @@ Start the Application
 
 Use a local server or deploy to a live host.
 Open the app in your browser and enjoy!
-📸 Screenshots
+
+📸 **Screenshots**
 Add exciting screenshots or GIFs here to showcase the app.
 
-🤝 Contributing
+🤝 **Contributing**
 We welcome contributions! Feel free to fork this repo, submit issues, or open pull requests.
 
-📜 License
+📜 **License**
 Licensed under the MIT License. For details, check out the LICENSE file.
 
 Enjoy exploring LKPC Solution! 🌟 For questions, feel free to reach out!
