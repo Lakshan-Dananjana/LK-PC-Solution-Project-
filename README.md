@@ -21,7 +21,7 @@
 
 📂 **Database Integration**  
 - Pre-configured SQL schema for a smooth setup.
-🚀 Setup Instructions
+🚀 **Setup Instructions**
 Clone the Repository
 
 - bash
