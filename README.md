@@ -68,4 +68,3 @@ LKPCSolution/
 
 -   Would you like to download this updated version?
 
-Copy this code into a `README.md` file, and you'll have an enhanced, visually appealing README! Let me know if you'd like further customization.
