@@ -36,18 +36,6 @@ Configure the Database
 - Use a local server or deploy to a live host.
 - Open the app in your browser and enjoy!
 
-📸 **Screenshots**
--  Add exciting screenshots or GIFs here to showcase the app.
-
-🤝 **Contributing**
--   We welcome contributions! Feel free to fork this repo, submit issues, or open pull requests.
-
-📜 **License**
--   Licensed under the MIT License. For details, check out the LICENSE file.
-
--   Enjoy exploring LKPC Solution! 🌟 For questions, feel free to reach out!
-
--   Would you like to download this updated version?
 
 ---
 
@@ -64,3 +52,20 @@ LKPCSolution/
 ├── vender/            # External libraries and dependencies (e.g., PHPMailer)
 └── *.php              # Main application PHP files
 
+```
+📸 **Screenshots**
+-  Add exciting screenshots or GIFs here to showcase the app.
+
+🤝 **Contributing**
+-   We welcome contributions! Feel free to fork this repo, submit issues, or open pull requests.
+
+📜 **License**
+-   Licensed under the MIT License. For details, check out the LICENSE file.
+
+-   Enjoy exploring LKPC Solution! 🌟 For questions, feel free to reach out!
+-   
+
+
+-   Would you like to download this updated version?
+
+Copy this code into a `README.md` file, and you'll have an enhanced, visually appealing README! Let me know if you'd like further customization.
